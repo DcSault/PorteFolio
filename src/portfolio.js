@@ -1,48 +1,44 @@
-/* Change this file to get your personal Portfolio */
 
-// To change portfolio colors globally go to the  _globalColor.scss file
+// Pour modifier les couleurs du portefeuille de manière globale, allez dans le fichier _globalColor.scss.
 
 import emoji from "react-easy-emoji";
-import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
+import splashAnimation from "./assets/lottie/splashAnimation"; // Renommez votre nom de fichier pour une animation personnalisée
 
 // Splash Screen
 
 const splashScreen = {
-  enabled: true, // set false to disable splash screen
+  enabled: true, // mettez false pour désactiver l'écran d'accueil
   animation: splashAnimation,
-  duration: 2000 // Set animation duration as per your animation
+  duration: 2000 // Définissez la durée de l'animation en fonction de votre animation
 };
 
-// Summary And Greeting Section
+// Résumé et section de salutation
 
 const illustration = {
-  animated: true // Set to false to use static SVG
+  animated: true // Mettre à false pour utiliser le SVG statique
 };
 
 const greeting = {
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
+  username: "Victor ROSIQUE",
+  title: "Salut à tous, je m'appelle Victor",
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
-  displayGreeting: true // Set false to hide this section, defaults to true
+    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Définissez-le comme vide pour masquer le bouton
+  displayGreeting: true // Définissez false pour masquer cette section, la valeur par défaut est true.
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
-  // Instagram, Twitter and Kaggle are also supported in the links!
-  // To customize icons and social links, tweak src/components/SocialMedia
-  display: true // Set true to display this section, defaults to false
+  github: "https://github.com/DcSault",
+  linkedin: "https://www.linkedin.com/in/victor-rosique/",
+  gmail: "rosiquevictor@gmail.com",
+  microsoft: "https://learn.microsoft.com/fr-fr/users/victorrosique-0505/",
+  // Instagram, Twitter et Kaggle sont également pris en charge dans les liens !
+  // Pour personnaliser les icônes et les liens sociaux, modifiez src/components/SocialMedia.
+  display: true // Définissez true pour afficher cette section, la valeur par défaut est false.
 };
 
 // Skills Section
@@ -60,7 +56,7 @@ const skillsSection = {
     )
   ],
 
-  /* Make Sure to include correct Font Awesome Classname to view your icon
+  /* Assurez-vous d'inclure le nom de classe Font Awesome correct pour afficher votre icône.
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
@@ -117,44 +113,47 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-docker"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: true // Définissez false pour masquer cette section, la valeur par défaut est true.
 };
 
 // Education Section
 
 const educationInfo = {
-  display: true, // Set false to hide this section, defaults to true
+  display: true, // Définissez false pour masquer cette section, la valeur par défaut est true.
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      schoolName: "Open IT",
+      logo: require("./assets/images/openit.png"),
+      subHeader: "BTS SIO - SISR ",
+      duration: "Septembre 2021 - Juin 2023",
+      desc: "BTS SIO option solutions d’infrastructure, systèmes et réseaux",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Support et mise à disposition de services informatiques",
+        "Cybersécurité des services informatiques"
       ]
     },
     {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      schoolName: "Lycée Régional Montesquieu",
+      logo: require("./assets/images/sorgues.png"),
+      subHeader: "Bac Pro Systèmes Numériques Pption C",
+      duration: "September 2018 - Jullet 2021",
+      desc: "télécommunications et réseaux, les systèmes participant à la mise en réseau de terminaux et aux télécommunications",
+      descBullets: ["Télécommunications et réseaux",
+                    "Électronique industrielle et embarquée"
+    
+    ]
     }
   ]
 };
 
-// Your top 3 proficient stacks/tech experience
+// Vos 3 piles/expériences technologiques les plus performantes
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: true, //Définissez-le à true pour montrer la section des compétences.
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      Stack: "Frontend/Design", //Insérez la pile ou la technologie dans laquelle vous avez de l'expérience
+      progressPercentage: "90%" //Insérer la compétence relative en pourcentage
     },
     {
       Stack: "Backend",
@@ -165,13 +164,13 @@ const techStack = {
       progressPercentage: "60%"
     }
   ],
-  displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
+  displayCodersrank: false // Définir true pour afficher les badges codersrank section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
 
 // Work experience section
 
 const workExperiences = {
-  display: true, //Set it to true to show workExperiences Section
+  display: true, //Mettez-le à true pour montrer la section WorkExperiences.
   experience: [
     {
       role: "Software Engineer",
@@ -201,15 +200,15 @@ const workExperiences = {
   ]
 };
 
-/* Your Open Source Section to View Your Github Pinned Projects
-To know how to get github key look at readme.md */
+/* Votre section Open Source pour visualiser vos projets épinglés sur Github
+Pour savoir comment obtenir la clé github, consultez readme.md */
 
 const openSource = {
-  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  showGithubProfile: "true", // Définissez true ou false pour afficher le profil du contact en utilisant Github, la valeur par défaut est true.
+  display: true // Définissez false pour masquer cette section, la valeur par défaut est true.
 };
 
-// Some big projects you have worked on
+// Quelques grands projets sur lesquels vous avez travaillé
 
 const bigProjects = {
   title: "Big Projects",
@@ -224,7 +223,7 @@ const bigProjects = {
           name: "Visit Website",
           url: "http://saayahealth.com/"
         }
-        //  you can add extra buttons here.
+        //  vous pouvez ajouter des boutons supplémentaires ici.
       ]
     },
     {
@@ -239,11 +238,11 @@ const bigProjects = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: true // Définissez false pour masquer cette section, la valeur par défaut est true.
 };
 
-// Achievement Section
-// Include certificates, talks etc
+// Section des réalisations
+// Inclure les certificats, les conférences, etc.
 
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
@@ -300,7 +299,7 @@ const achievementSection = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: true // Définissez false pour masquer cette section, la valeur par défaut est true.
 };
 
 // Blogs Section
@@ -309,7 +308,7 @@ const blogSection = {
   title: "Blogs",
   subtitle:
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
-  displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
+  displayMediumBlogs: "true", // Définissez true pour afficher les blogs des médias récupérés au lieu de ceux codés en dur.
   blogs: [
     {
       url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
@@ -324,7 +323,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: true // Définissez false pour masquer cette section, la valeur par défaut est true.
 };
 
 // Talks Sections
@@ -343,7 +342,7 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: true // Définissez false pour masquer cette section, la valeur par défaut est true.
 };
 
 // Podcast Section
@@ -352,11 +351,11 @@ const podcastSection = {
   title: emoji("Podcast 🎙️"),
   subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
 
-  // Please Provide with Your Podcast embeded Link
+  // Veuillez fournir un lien intégré à votre podcast
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: true // Définissez false pour masquer cette section, la valeur par défaut est true.
 };
 
 const contactInfo = {
@@ -370,8 +369,8 @@ const contactInfo = {
 // Twitter Section
 
 const twitterDetails = {
-  userName: "twitter", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
+  userName: "NotSault", //Remplacez "twitter" par votre nom d'utilisateur twitter sans @.
+  display: true // Définissez true pour afficher cette section, la valeur par défaut est false.
 };
 
 const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
