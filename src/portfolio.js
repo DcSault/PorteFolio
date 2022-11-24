@@ -135,7 +135,7 @@ const educationInfo = {
     {
       schoolName: "Lycée Régional Montesquieu",
       logo: require("./assets/images/sorgues.png"),
-      subHeader: "Bac Pro Systèmes Numériques Pption C",
+      subHeader: "Bac Pro Systèmes Numériques option C",
       duration: "September 2018 - Jullet 2021",
       desc: "télécommunications et réseaux, les systèmes participant à la mise en réseau de terminaux et aux télécommunications",
       descBullets: ["Télécommunications et réseaux",
