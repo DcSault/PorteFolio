@@ -25,7 +25,7 @@ const greeting = {
     ""
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Définissez-le comme vide pour masquer le bouton
+    "http://image.noelshack.com/fichiers/2022/49/3/1670410073-cv-tres-creatif-et-moderne.jpg", // Définissez-le comme vide pour masquer le bouton
   displayGreeting: true // Définissez false pour masquer cette section, la valeur par défaut est true.
 };
 
@@ -44,7 +44,7 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "Qui Suis J  e",
+  title: "Qui Suis Je",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
