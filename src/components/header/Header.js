@@ -7,9 +7,6 @@ import {
   greeting,
   workExperiences,
   skillsSection,
-  openSource,
-  blogSection,
-  talkSection,
   achievementSection
 } from "../../portfolio";
 
