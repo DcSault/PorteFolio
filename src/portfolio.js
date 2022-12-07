@@ -173,29 +173,28 @@ const workExperiences = {
   display: true, //Mettez-le à true pour montrer la section WorkExperiences.
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Stagiaire - Technicien Télécom ",
+      company: "Orange Télécom",
+      companylogo: require("./assets/images/OrangeLogo.png"),
+      date: " 2020 ",
+      desc: "Professionnel de terrain, le technicien réseaux et télécoms a pour mission d’installer et de connecter les équipements informatiques et téléphoniques de l’entreprise où il exerce ou bien pour le compte de clients, lorsqu’il travaille dans une société de services",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Relation client / Maintenance et réparation / Vérification qualité et sécurité",
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Stagiaire - SysAdmin",
+      company: "2SREI",
+      companylogo: require("./assets/images/2SREILogo.png"),
+      date: " 2021 ",
+      desc: "Réceptionner, analyser et diagnostiquer les demandes des utilisateurs par téléphone Traiter des incidents techniques (bureautique, système, réseau, logiciel et matériel) Conseiller."
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Technicien Support ",
+      company: "Genapi",
+      companylogo: require("./assets/images/GenapiLogo.png"),
+      date: " Août 2021  – Maintenant",
+      desc: "Réceptionner, analyser et diagnostiquer les demandes des utilisateurs par téléphone Traiter des incidents techniques (bureautique, système, réseau, logiciel et matériel) Conseiller, accompagner et orienter les clients en apportant des réponses à leurs besoins."
     }
   ]
 };
