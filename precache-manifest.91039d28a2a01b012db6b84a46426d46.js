@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e5eb8c6c587a2b691089d316949fe17",
+    "revision": "5d669b63470b43f3a2d891eed93abdcd",
     "url": "/index.html"
   },
   {
-    "revision": "822a8f3d155db05e8dad",
+    "revision": "075f5a4014c20d002714",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "7a360a063e89eaaf9c31",
+    "revision": "a837d200c4102d0b1489",
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "f157ed657017c8a97696",
+    "revision": "c67b1604a8c6cf28c619",
     "url": "/static/css/main.52a26c30.chunk.css"
   },
   {
-    "revision": "e7a779e4a372790edc4f",
-    "url": "/static/js/2.56c388a2.chunk.js"
+    "revision": "b5dda716c6fa08b55f44",
+    "url": "/static/js/2.5e87f097.chunk.js"
   },
   {
     "revision": "b045256696e9edb485ef902b6be54c14",
-    "url": "/static/js/2.56c388a2.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.5e87f097.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "822a8f3d155db05e8dad",
-    "url": "/static/js/3.07f8f4b8.chunk.js"
+    "revision": "075f5a4014c20d002714",
+    "url": "/static/js/3.2694d0f6.chunk.js"
   },
   {
-    "revision": "7a360a063e89eaaf9c31",
-    "url": "/static/js/4.3834c8de.chunk.js"
+    "revision": "a837d200c4102d0b1489",
+    "url": "/static/js/4.7e77a6e9.chunk.js"
   },
   {
-    "revision": "f157ed657017c8a97696",
-    "url": "/static/js/main.8386d742.chunk.js"
+    "revision": "c67b1604a8c6cf28c619",
+    "url": "/static/js/main.3cb4037b.chunk.js"
   },
   {
-    "revision": "53a8a5296169f68c6ab7",
-    "url": "/static/js/runtime-main.4134f3b7.js"
+    "revision": "96880f5f08729098750e",
+    "url": "/static/js/runtime-main.7cecf5d1.js"
   },
   {
     "revision": "afc08e09121159205ce7d987a42a16f2",
@@ -64,6 +64,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/developerActivity.59389695.svg"
   },
   {
+    "revision": "f30d4210ed49598b03d34525391e8278",
+    "url": "/static/media/maintenance.f30d4210.gif"
+  },
+  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
   },
@@ -76,16 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/microsoft-certified-expert-badge.01b80865.svg"
   },
   {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/static/media/nextuLogo.829ad0a1.webp"
-  },
-  {
     "revision": "383df93c0c95fd3101d150fb64bb5789",
     "url": "/static/media/openit.383df93c.png"
-  },
-  {
-    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
-    "url": "/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
