@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.52a26c30.chunk.css",
-    "main.js": "/static/js/main.50041c0c.chunk.js",
-    "main.js.map": "/static/js/main.50041c0c.chunk.js.map",
+    "main.js": "/static/js/main.c9efaf48.chunk.js",
+    "main.js.map": "/static/js/main.c9efaf48.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9d3f2436.js",
     "runtime-main.js.map": "/static/js/runtime-main.9d3f2436.js.map",
     "static/js/2.705ca785.chunk.js": "/static/js/2.705ca785.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.a11c632d.chunk.js": "/static/js/4.a11c632d.chunk.js",
     "static/js/4.a11c632d.chunk.js.map": "/static/js/4.a11c632d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a302ca73539ed3ec59b6387cb5e01bdd.js": "/precache-manifest.a302ca73539ed3ec59b6387cb5e01bdd.js",
+    "precache-manifest.ab9b44e1a529ae3faae58f4f8c371c8d.js": "/precache-manifest.ab9b44e1a529ae3faae58f4f8c371c8d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.d7ceb645.chunk.css.map": "/static/css/4.d7ceb645.chunk.css.map",
@@ -23,7 +23,7 @@
     "static/media/2SREILogo.png": "/static/media/2SREILogo.afc08e09.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/GenapiLogo.png": "/static/media/GenapiLogo.3d7ec262.png",
-    "static/media/OrangeLogo.png": "/static/media/OrangeLogo.9a7951be.png",
+    "static/media/OrangeLogo.png": "/static/media/OrangeLogo.e76073d5.png",
     "static/media/codeInLogo.webp": "/static/media/codeInLogo.47a7a717.webp",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
@@ -41,6 +41,6 @@
     "static/js/runtime-main.9d3f2436.js",
     "static/js/2.705ca785.chunk.js",
     "static/css/main.52a26c30.chunk.css",
-    "static/js/main.50041c0c.chunk.js"
+    "static/js/main.c9efaf48.chunk.js"
   ]
 }
