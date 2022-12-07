@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83a0e3a234c9859b0ad3f56911db1526",
+    "revision": "d3699a68336a4dbfcdca09513adb32e3",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "18afccc6146b285a59f3",
+    "revision": "36907fbffc1a3b465cae",
     "url": "/static/css/main.52a26c30.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.a11c632d.chunk.js"
   },
   {
-    "revision": "18afccc6146b285a59f3",
-    "url": "/static/js/main.c9efaf48.chunk.js"
+    "revision": "36907fbffc1a3b465cae",
+    "url": "/static/js/main.7dde2c24.chunk.js"
   },
   {
     "revision": "ad4807f433e0cc6f12fa",
@@ -54,10 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
-  },
-  {
-    "revision": "e76073d5ea59557b22c9ef8863a814ea",
-    "url": "/static/media/OrangeLogo.e76073d5.png"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
