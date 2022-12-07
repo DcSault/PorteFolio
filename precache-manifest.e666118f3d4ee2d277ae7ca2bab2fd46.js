@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3699a68336a4dbfcdca09513adb32e3",
+    "revision": "785c4730092c87b07193df5912883661",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "36907fbffc1a3b465cae",
+    "revision": "e627b096a9e5b4f32e5e",
     "url": "/static/css/main.52a26c30.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.a11c632d.chunk.js"
   },
   {
-    "revision": "36907fbffc1a3b465cae",
-    "url": "/static/js/main.7dde2c24.chunk.js"
+    "revision": "e627b096a9e5b4f32e5e",
+    "url": "/static/js/main.b9efd07b.chunk.js"
   },
   {
     "revision": "ad4807f433e0cc6f12fa",
@@ -56,10 +56,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "47a7a717679b640ceb1b05d38c480a61",
-    "url": "/static/media/codeInLogo.47a7a717.webp"
-  },
-  {
     "revision": "51cf7192327488da3d2a171280680c16",
     "url": "/static/media/contactMailDark.51cf7192.svg"
   },
@@ -74,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
+  },
+  {
+    "revision": "0d0f7fb728d7557198cc531732b5e19b",
+    "url": "/static/media/microsoft-certified-associate-badge.0d0f7fb7.svg"
   },
   {
     "revision": "829ad0a1deef4d7295adfecdf12df2be",
