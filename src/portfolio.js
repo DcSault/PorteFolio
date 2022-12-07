@@ -307,7 +307,7 @@ export {
   openSource,
   bigProjects,
   achievementSection,
-    ontactInfo,
+  contactInfo,
   twitterDetails,
   isHireable
 };
