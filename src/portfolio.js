@@ -62,7 +62,7 @@ https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
       skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      fontAwesomeClassname: "fab fa-html5"  
     },
     {
       skillName: "css3",
@@ -336,7 +336,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contactez-moi ☎️"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
+    "DISCUTER D'UN PROJET OU SIMPLEMENT DIRE BONJOUR ? MA BOÎTE DE RÉCEPTION EST OUVERTE À TOUS.",
   number: "+33-0787248308",
   email_address: "rosiquevictor@gmail.com"
 };
