@@ -149,7 +149,7 @@ const educationInfo = {
 // Vos 3 piles/expériences technologiques les plus performantes
 
 const techStack = {
-  viewSkillBars: true, //Définissez-le à true pour montrer la section des compétences.
+  viewSkillBars: false, //Définissez-le à true pour montrer la section des compétences.
   experience: [
     {
       Stack: "Frontend/Design", //Insérez la pile ou la technologie dans laquelle vous avez de l'expérience
@@ -307,7 +307,7 @@ export {
   openSource,
   bigProjects,
   achievementSection,
-  contactInfo,
+    ontactInfo,
   twitterDetails,
   isHireable
 };
