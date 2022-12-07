@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d669b63470b43f3a2d891eed93abdcd",
+    "revision": "d078eb9a63280b3a1b060a4c96387f31",
     "url": "/index.html"
   },
   {
-    "revision": "075f5a4014c20d002714",
+    "revision": "a8ee55c93b9eb4aad35d",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "a837d200c4102d0b1489",
+    "revision": "e88062d3078cd9c1eece",
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "c67b1604a8c6cf28c619",
-    "url": "/static/css/main.52a26c30.chunk.css"
+    "revision": "757d2a25ec9eec85fa75",
+    "url": "/static/css/main.2f30147d.chunk.css"
   },
   {
-    "revision": "b5dda716c6fa08b55f44",
-    "url": "/static/js/2.5e87f097.chunk.js"
+    "revision": "e7a779e4a372790edc4f",
+    "url": "/static/js/2.56c388a2.chunk.js"
   },
   {
     "revision": "b045256696e9edb485ef902b6be54c14",
-    "url": "/static/js/2.5e87f097.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.56c388a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "075f5a4014c20d002714",
-    "url": "/static/js/3.2694d0f6.chunk.js"
+    "revision": "a8ee55c93b9eb4aad35d",
+    "url": "/static/js/3.5aa56b42.chunk.js"
   },
   {
-    "revision": "a837d200c4102d0b1489",
-    "url": "/static/js/4.7e77a6e9.chunk.js"
+    "revision": "e88062d3078cd9c1eece",
+    "url": "/static/js/4.1c83c70d.chunk.js"
   },
   {
-    "revision": "c67b1604a8c6cf28c619",
-    "url": "/static/js/main.3cb4037b.chunk.js"
+    "revision": "757d2a25ec9eec85fa75",
+    "url": "/static/js/main.91420269.chunk.js"
   },
   {
-    "revision": "96880f5f08729098750e",
-    "url": "/static/js/runtime-main.7cecf5d1.js"
+    "revision": "845f0fbaec4ff30cbddc",
+    "url": "/static/js/runtime-main.4aaa2e7c.js"
   },
   {
     "revision": "afc08e09121159205ce7d987a42a16f2",
@@ -84,15 +84,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/openit.383df93c.png"
   },
   {
+    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
+    "url": "/static/media/saayaHealthLogo.25018d29.webp"
+  },
+  {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
   },
   {
     "revision": "8aa6b575fb05690a4f5e056e0ac1352f",
     "url": "/static/media/sorgues.8aa6b575.png"
-  },
-  {
-    "revision": "13780cdd0144cacdef25486e2c2503f8",
-    "url": "/static/media/talksCardBack.13780cdd.svg"
   }
 ]);
