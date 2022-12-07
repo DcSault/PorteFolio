@@ -210,29 +210,29 @@ const openSource = {
 // Quelques grands projets sur lesquels vous avez travaillé
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Mes Projets ",
+  subtitle: " En cours de Maintenance",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/maintenance.gif"),
+      projectName: "En cours de Maintenance",
+      projectDesc: "",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "",
+          url: ""
         }
         //  vous pouvez ajouter des boutons supplémentaires ici.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/maintenance.gif"),
+      projectName: "En cours de Maintenance",
+      projectDesc: "",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "",
+          url: ""
         }
       ]
     }
@@ -246,7 +246,7 @@ const bigProjects = {
 const achievementSection = {
   title: emoji("Certification en Cours 🏆 "),
   subtitle:
-    "Yes !",
+    "",
 
   achievementsCards: [
     {
