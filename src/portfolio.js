@@ -252,7 +252,7 @@ const achievementSection = {
     {
       title: "Microsoft Certified",
       subtitle:
-        "Microsoft Certified.",
+        "Windows Server Hybrid Administrator Associate.",
       image: require("./assets/images/microsoft-certified-associate-badge.svg"),
       imageAlt: "Windows Server Hybrid Administrator Associate",
       footerLink: [
