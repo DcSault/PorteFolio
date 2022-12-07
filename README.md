@@ -33,7 +33,7 @@ Created something awesome for your fork of the portfolio and want to share it? F
 ✔️ Summary and About me\
 ✔️ Skills\
 ✔️ Education\
-✔️ Work Experience\
+✔️ Experiences\
 ✔️ Open Source Projects Connected with GitHub\
 ✔️ Big Projects\
 ✔️ Achievements And Certifications 🏆\
