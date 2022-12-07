@@ -250,11 +250,11 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Microsoft Certified",
       subtitle:
-        "Microsoft Certified : Windows Server Hybrid Administrator Associate.",
+        "Microsoft Certified.",
       image: require("./assets/images/microsoft-certified-associate-badge.svg"),
-      imageAlt: "Microsoft Certified",
+      imageAlt: "Windows Server Hybrid Administrator Associate",
       footerLink: [
         {
           name: "Certification",
