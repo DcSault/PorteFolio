@@ -149,7 +149,7 @@ const educationInfo = {
 // Vos 3 piles/expériences technologiques les plus performantes
 
 const techStack = {
-  viewSkillBars: true, //Définissez-le à true pour montrer la section des compétences.
+  viewSkillBars: false, //Définissez-le à true pour montrer la section des compétences.
   experience: [
     {
       Stack: "Frontend/Design", //Insérez la pile ou la technologie dans laquelle vous avez de l'expérience
@@ -214,7 +214,7 @@ const bigProjects = {
   subtitle: " En cours de Maintenance",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/maintenance.gif"),
       projectName: "En cours de Maintenance",
       projectDesc: "",
       footerLink: [
@@ -347,7 +347,7 @@ const contactInfo = {
 
 const twitterDetails = {
   userName: "NotSault", //Remplacez "twitter" par votre nom d'utilisateur twitter sans @.
-  display: true // Définissez true pour afficher cette section, la valeur par défaut est false.
+  display: false // Définissez true pour afficher cette section, la valeur par défaut est false.
 };
 
 const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
