@@ -252,7 +252,7 @@ const achievementSection = {
     {
       title: "Microsoft Certified",
       subtitle:
-        "Windows Server Hybrid Administrator Associate.",
+        "Windows Server Hybrid Administrator Associate  .",
       image: require("./assets/images/microsoft-certified-associate-badge.svg"),
       imageAlt: "Windows Server Hybrid Administrator Associate",
       footerLink: [
@@ -263,29 +263,15 @@ const achievementSection = {
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "Microsoft 365 Certified",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+        "Microsoft 365, enterprise Administrator Expert.",
+      image: require("./assets/images/microsoft-certified-expert-badge.svg"),
+      imageAlt: "Enterprise Administrator Expert",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-        }
-      ]
-    },
-
-    {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {name: "Certification", url: ""},
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          name: "Certification",
+          url: "https://learn.microsoft.com/fr-fr/users/victorrosique-0505/"
         }
       ]
     }
